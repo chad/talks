@@ -1,4 +1,3 @@
-
 --color white
 --bgcolor blue
 --author Chad Fowler
@@ -82,6 +81,8 @@ is the goal
 --huge most destructive
 
 --newpage
+--bgcolor magenta
+--color cyan
 --huge Good uses of
 --huge experiments in
 --huge our field
@@ -129,3 +130,5 @@ Analysis
 --newpage
 --huge "Avant Garde"
 Vanguard - "a position at the forefront of new developments or ideas"
+--newpage
+--exec ps
