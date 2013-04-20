@@ -1,14 +1,23 @@
+
 --color white
 --bgcolor blue
 --author Chad Fowler
 --title Experiment
 --newpage
 --boldon
-You keep using that word...
+--sethugefont avatar
+--huge You keep using that word...
+--sethugefont ogre
 --boldoff
 --newpage
 --center a course of action tentatively adopted without being sure of the eventual outcome.
 --newpage
+--center e.g. experimenting with drugs...
+--newpage
+--center experimental music
+--newpage
+--color blue
+--bgcolor green
 --center a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.
 --newpage
 --boldon
@@ -19,30 +28,65 @@ You keep using that word...
 --newpage
 --huge Progress
 --newpage
---huge validate assumptions
+--huge Validate assumptions
 --newpage
---huge Prove ourselves right
+--huge Prove
+--huge ourselves
+--huge right
 --newpage
---huge Introduce change
+--bgcolor yellow
+--color black
+--huge Why
+--boldon
+--huge should
+--boldoff
+--huge we do it?
 --newpage
---huge Experiments are liberating
+--huge Introduce
+--huge  change
 --newpage
---huge Learning is the goal
+--huge Freedom
 --newpage
---huge As long as you learn, you succeed
+--huge Focus
 --newpage
+--huge Fight Fear
+--newpage
+--huge Unstick
+--huge Ourselves
+
+--newpage
+--bgcolor green
+--color blue
+--huge Experiments
+are
+--huge liberating
+--newpage
+--huge Learning
+is the goal
+--newpage
+--huge As long as you learn
+--huge you succeed
+--newpage
+--bgcolor red
+--color white
 --huge Misuse of the term is dangerous
 --newpage
 --huge Excuse for being lazy
 --newpage
---huge Excuse for doing things "my way"
+--huge Excuse for doing things
+--huge "my way"
 --newpage
---huge Statistically proven lies are the most destructive
+--huge Statistically
+--huge proven
+--huge lies are the
+--huge most destructive
 
 --newpage
---huge Good uses of Experiments in our field
+--huge Good uses of
+--huge experiments in
+--huge our field
 --newpage
---huge TDD
+--huge TDD (kinda)
 --newpage
 --huge Software architecture
 --newpage
