@@ -3,6 +3,14 @@
 --author Chad Fowler
 --title Experiment
 --newpage
+--huge Railsberry
+--newpage
+The conference for curious Rails developers
+--newpage
+--huge 'curious'
+--newpage
+--huge 'experiment'
+--newpage
 --boldon
 --sethugefont avatar
 --huge You keep using that word...
@@ -70,10 +78,13 @@ is the goal
 --color white
 --huge Misuse of the term is dangerous
 --newpage
---huge Excuse for being lazy
+--huge Excuse
+--huge for being
+--huge lazy
 --newpage
---huge Excuse for doing things
---huge "my way"
+--huge Excuse
+--huge for doing things
+--huge 'my way'
 --newpage
 --huge Statistically
 --huge proven
@@ -128,7 +139,10 @@ Analysis
 --newpage
 --huge Agility vs Experimentation
 --newpage
---huge "Avant Garde"
-Vanguard - "a position at the forefront of new developments or ideas"
+--huge 'Avant Garde'
+Vanguard - 'a position at the forefront of new developments or ideas'
 --newpage
---exec ps
+--bgcolor blue
+--color red
+--huge thx 4 listening
+@chadfowler
