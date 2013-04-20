@@ -1,0 +1,39 @@
+Experimentation.
+What is it?
+"Avant Garde"
+Vanguard - "a position at the forefront of new developments or ideas"
+
+
+Why do we do as humans do it?
+  - Learn
+  - Progress
+  - validate assumptions
+  - prove ourselves right
+
+What's the difference between an experiment and a failure?
+
+Experiments are liberating
+ - it's OK to fail at proving the thing you're trying to prove because you have learned.
+ - Learning is the goal
+  -
+
+Misuse of the term is dangerous
+  - Excuse for benig lazy
+  - Excuse for doing things "my way"
+
+Good types of experimentation in our field:
+  - TDD
+  - Software architecture
+  - Languages
+  - Product design/development (AB tests as an example)
+  - Agile development (show Dave's thing)
+
+Characteristics of a good experiment
+  - small?
+  - measurable
+  - goal
+
+Cost vs benefit?
+
+Agility
+
