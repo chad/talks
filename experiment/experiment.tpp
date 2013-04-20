@@ -40,7 +40,7 @@ You keep using that word...
 --huge Statistically proven lies are the most destructive
 
 --newpage
---huge Good uses of Experiment in our field
+--huge Good uses of Experiments in our field
 --newpage
 --huge TDD
 --newpage
@@ -48,23 +48,40 @@ You keep using that word...
 --newpage
 --huge Languages
 --newpage
---huge Product design/development (AB tests as an example)
+--huge Product design/development
 --newpage
---huge Agile development (show Dave's thing)
+--huge Agile Development
 --newpage
---huge Characteristics of a good experiment
+--heading Characteristics of a good experiment
+small
+---
+?
+---
+measurable
+---
+goal
+
 --newpage
---huge small
+--huge Scientific method
+
 --newpage
---huge small
---huge ?
+Formulate a question
+---
+Formulate a hypothesis
+---
+Prediction
+---
+Testing
+---
+Analysis
+
+
 --newpage
---huge measurable
---newpage
---huge goal
---newpage
---huge Cost vs benefit
+--huge Cost
 --newpage
 --huge When do you do it?
 --newpage
 --huge Agility vs Experimentation
+--newpage
+--huge "Avant Garde"
+Vanguard - "a position at the forefront of new developments or ideas"
