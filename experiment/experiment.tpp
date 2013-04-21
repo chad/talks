@@ -1,18 +1,68 @@
---color white
---bgcolor blue
+--bgcolor magenta
+--color cyan
 --author Chad Fowler
 --title Experiment
 --newpage
+--bgcolor yellow
+--color white
 --huge Something's
 --huge been
 --huge bothering
 --huge me
 --newpage
---huge Railsberry
+I've noticed a terrible and widespread phenomenon.
+--newpage
+ A crippling disease infecting many of us in creative customer serving industries.
+--newpage
+--huge People
+get stuck
+--newpage
+--huge Products
+get stuck
+--newpage
+--huge Projects
+get stuck
+--newpage
+Releasing without (first) learning leads to anxiety
+--newpage
+Can't or won't change
+--newpage
+Afraid and unaware
+--newpage
+Stagnating
+--newpage
+Once fast-moving free, agile, happy teams gradually grind to a halt
+--newpage
+The scariest part is they (we) don't even realize it's happening
+--newpage
+Suddenly one day they reflect.
+--newpage
+Maybe when a new person joins the team with fresh eyes
+
+
+        _....,_         _,...._
+    _.-` _,..,_'.     .'_,..,_ `-._
+     _,-`/ o \ '.     .' / o \`-,_
+      '-.\___/.-`     `-.\___/.-'
+
+
+--newpage
+And realize things suck
+--newpage
+--color white
+--bgcolor blue
+--huge Along came Railsberry
 --newpage
 The conference for curious Rails developers
 --newpage
 --huge 'curious'
+--newpage
+--huge 'experiment'
+--newpage
+I'm always happiest when
+--huge I'm confident
+and
+--huge I'm learning
 --newpage
 --huge 'experiment'
 --newpage
