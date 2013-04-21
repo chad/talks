@@ -283,7 +283,9 @@ Analysis
 --huge When do you do it?
 or when do you NOT do it?
 --newpage
---huge Agility vs Experimentation
+--huge Agility
+--huge vs
+--huge Experimentation
 --newpage
 --bgcolor blue
 --color red
