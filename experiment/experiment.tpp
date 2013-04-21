@@ -20,13 +20,67 @@ The conference for curious Rails developers
 --center a course of action tentatively adopted without being sure of the eventual outcome.
 --newpage
 --center e.g. experimenting with drugs...
+
+                     (
+                   ) )
+                  ( (  ))
+                   ) )(
+                    ))       ))),,
+                    (       /  ///
+                           _ _  /
+                   _U___  <     )  ()
+                  / /      \_- |. //
+                  \_|       |,-"|//
+                   __     ,-"   //
+                  /  \ ,-"     //
+     _  .  --. ,--\," "---    //
+ /\_/ \| ""  -"    "-.       //
+ \  \  |                    //|
+,_\________________________//||
+'--------------------------, ||
+   //                      \\||
+  //                        \\|
+
 --newpage
 --center experimental music
+
+  _,-----,____g===;,
+<'.._____,-------g  ;
+                   \   \,
+                     q   q,
+                      q    q,
+                     [='     q
+                       `;  O  p
+                         k  O  p -{0
+                          l  O  p -o
+                          ,i     p
+                           P  O   |
+                         q:|   O| |BD
+                            [   | P b
+                            |   |  |____________
+                          [ |   |  |\         /
+                          | '   |  P :       ;
+                          | [   0   Q:  ( )  ;
+                           [ P  ( )  |;  ( ) ;
+                           :Q  ( )  V        p
+                            \   [           ;
+                             \',     O    /
+                               ' ; _ . '
+
 --newpage
 --center using tpp for this presentation
 --center (http://github.com/akrennmair/tpp)
 --newpage
---huge This talk :)
+--huge this talk
+          .-""""""-.
+        .'          '.
+       /   O      O   \
+      :                :
+      |                |
+      : ',          ,' :
+       \  '-.____.-'  /
+        '.     U    .'
+          '-......-'
 --newpage
 --center experimental music...
 I used to play 'experimental music'
@@ -38,6 +92,16 @@ Cecil Taylor took issue with that term.
 --color blue
 --bgcolor green
 --center a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.
+
+                 _
+                 \`\
+                 |= |
+                /-  ;.---.
+          _ __.'     (____)
+           `         (_____)
+           _'  ._ .' (____)
+            `        (___)
+           --`'------'`
 --newpage
 --boldon
 --huge Why do we do it?
@@ -80,7 +144,7 @@ Vanguard - 'a position at the forefront of new developments or ideas'
 --color black
 --huge Why
 --boldon
---huge should
+--huge SHOULD
 --boldoff
 --huge we do it?
 --newpage
@@ -89,17 +153,16 @@ Vanguard - 'a position at the forefront of new developments or ideas'
 --huge  change
 --newpage
 --huge freedom
-measurable goals
 --newpage
 --huge focus
-small, measurable goals
+small, concrete goals
 --newpage
 --huge fight fear
 --newpage
 --huge unstick
 --huge ourselves
 --newpage
---huge solve arguments
+--huge end arguments
 'just try it'
 
 --newpage
@@ -147,11 +210,15 @@ is the goal
 --newpage
 --huge architect for experimentation
 --newpage
---huge new technology introduction
+--huge new
+--huge technology
+--huge introduction
 --newpage
---huge Product design/development
+--huge Product
+--huge design/development
 --newpage
---huge agile development
+--huge agile
+--huge development
 --newpage
 --huge TDD (kinda)
 
@@ -189,6 +256,7 @@ small
 --huge Scientific method
 
 --newpage
+--huge Scientific method
 Formulate a question
 ---
 Formulate a hypothesis
@@ -198,11 +266,19 @@ Prediction
 Testing
 ---
 Analysis
+--newpage
+--huge Scientific method
+> 10 FORMULATE A QUESTION
+> 20 FORMULATE A HYPOTHESIS
+> 30 PREDICTION
+> 40 TESTING
+> 50 ANALYSIS
+> 60 GOTO 10
+
 
 
 --newpage
 --huge Cost
-
 --newpage
 --huge When do you do it?
 or when do you NOT do it?
