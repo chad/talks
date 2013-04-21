@@ -23,6 +23,16 @@ The conference for curious Rails developers
 --newpage
 --center experimental music
 --newpage
+--center using tpp for this presentation
+--center (http://github.com/akrennmair/tpp)
+--newpage
+--center experimental music...
+I used to play 'experimental music'
+Cecil Taylor took issue with that term.
+--newpage
+--huge More on this later...
+
+--newpage
 --color blue
 --bgcolor green
 --center a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.
@@ -34,8 +44,14 @@ The conference for curious Rails developers
 --huge Learn
 --newpage
 --huge Progress
+---
+--boldon
+ 'Avant Garde'
+--boldoff
+Vanguard - 'a position at the forefront of new developments or ideas'
 --newpage
---huge Validate assumptions
+--huge Validate
+--huge assumptions
 --newpage
 --huge Prove
 --huge ourselves
@@ -49,17 +65,23 @@ The conference for curious Rails developers
 --boldoff
 --huge we do it?
 --newpage
---huge Introduce
+--huge introduce
+--huge controlled
 --huge  change
 --newpage
---huge Freedom
+--huge freedom
+measurable goals
 --newpage
---huge Focus
+--huge focus
+small, measurable goals
 --newpage
---huge Fight Fear
+--huge fight fear
 --newpage
---huge Unstick
---huge Ourselves
+--huge unstick
+--huge ourselves
+--newpage
+--huge solve arguments
+'just try it'
 
 --newpage
 --bgcolor green
@@ -86,10 +108,7 @@ is the goal
 --huge for doing things
 --huge 'my way'
 --newpage
---huge Statistically
---huge proven
---huge lies are the
---huge most destructive
+--huge Lies, Damned Lies, and Statistics
 
 --newpage
 --bgcolor magenta
@@ -98,24 +117,29 @@ is the goal
 --huge experiments in
 --huge our field
 --newpage
---huge TDD (kinda)
+--huge software architecture
 --newpage
---huge Software architecture
+--huge architect for experimentation
 --newpage
---huge Languages
+--huge new technology introduction
 --newpage
 --huge Product design/development
 --newpage
 --huge Agile Development
 --newpage
+--huge TDD (kinda)
+--newpage
 --heading Characteristics of a good experiment
+--newpage
+--huge measurable
+--newpage
+--huge goal
+--newpage
 small
 ---
 ?
----
-measurable
----
-goal
+--newpage
+--huge small
 
 --newpage
 --huge Scientific method
@@ -134,15 +158,18 @@ Analysis
 
 --newpage
 --huge Cost
+
 --newpage
 --huge When do you do it?
+or when do you NOT do it?
 --newpage
 --huge Agility vs Experimentation
 --newpage
---huge 'Avant Garde'
-Vanguard - 'a position at the forefront of new developments or ideas'
---newpage
 --bgcolor blue
 --color red
+--huge Don't be like Cecil
+--newpage
+--huge Always be experimenting
+--newpage
 --huge thx 4 listening
 @chadfowler
