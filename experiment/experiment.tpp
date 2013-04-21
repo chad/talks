@@ -26,6 +26,8 @@ The conference for curious Rails developers
 --center using tpp for this presentation
 --center (http://github.com/akrennmair/tpp)
 --newpage
+--huge This talk :)
+--newpage
 --center experimental music...
 I used to play 'experimental music'
 Cecil Taylor took issue with that term.
@@ -112,6 +114,12 @@ is the goal
 --newpage
 --huge As long as you learn
 --huge you succeed
+--newpage
+--huge try
+---
+--huge crazy
+---
+--huge shit
 
 --newpage
 --bgcolor red
@@ -143,9 +151,27 @@ is the goal
 --newpage
 --huge Product design/development
 --newpage
---huge Agile Development
+--huge agile development
 --newpage
 --huge TDD (kinda)
+
+--newpage
+--color green
+--bgcolor cyan
+--huge Good uses of
+--huge experiments in
+--huge our lives
+--newpage
+--huge fitness
+--newpage
+--huge sleep
+--newpage
+--huge relationships
+--newpage
+--huge happiness
+--huge &
+--huge fulfillment
+
 --newpage
 --heading Characteristics of a good experiment
 --newpage
