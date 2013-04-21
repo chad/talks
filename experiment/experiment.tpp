@@ -4,7 +4,7 @@
 --title Experiment
 --newpage
 --bgcolor yellow
---color white
+--color black
 --huge Something's
 --huge been
 --huge bothering
