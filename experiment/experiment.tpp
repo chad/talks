@@ -10,9 +10,12 @@
 --huge bothering
 --huge me
 --newpage
-I've noticed a terrible and widespread phenomenon.
+--huge terrible
+--huge and
+--huge widepsread
 --newpage
- A crippling disease infecting many of us in creative customer serving industries.
+--huge crippling
+--huge disease
 --newpage
 --huge People
 get stuck
@@ -48,6 +51,10 @@ Maybe when a new person joins the team with fresh eyes
 
 --newpage
 And realize things suck
+--newpage
+--huge Teams
+--huge burn
+--huge out
 --newpage
 --color white
 --bgcolor blue
@@ -165,7 +172,6 @@ Cecil Taylor took issue with that term.
 --huge Learn
 --newpage
 --huge Progress
----
 --boldon
  'Avant Garde'
 --boldoff
@@ -173,6 +179,43 @@ Vanguard - 'a position at the forefront of new developments or ideas'
 --newpage
 --huge Validate
 --huge assumptions
+--newpage
+
+                    M88MM88MM8$
+                 88MM88M
+              M88MMDD
+           .8MM88MM
+          ~88MM88
+         88MM88.
+       ?M88MM8
+      M88MMDD
+     MM88MMD
+    DMM88MM
+   MM88MM8
+  8MM88MM8                                     MM88MM88MM88DD88MM88MM88MM88DD88?
+  8MM88MM.     MM88MM8.                     D88MM88MM88MM88DD88MM88MM88MM88DD88?
+ MMDDMM88  88MM88MMDDMM88M                M88MM88MMDDMM88MM88MM88MMDDMM88MM88MM?
+ MMDDMM88MM88M   MMDDMM88MM8             MM88MM88MMDDM      8MM.
+M88MM88MM8          M88MM88MM           M88MM88MM            .8MM8
+M88MM88M              8MM88MM8         MM88MM88                MM88M
+M88MM88                MM88MM88       8MM88MM8                  M88MM .
+8MMDDMM                .8MMDDMM       M88MMDD.                   MMDDMM
+8MMDDMM                .8MMDDMM8     MM88MMD                      MDDMM8
+M88MM88                 ~88DD88M     88MM88D                      8MM88MM
+M88MM88                  88MM88M     88MM88M                       MM88MM
+M88MM88.                 88MM88M     88MM88M                       MM88MM8
+8MMDDMM                  MM88MM8.    .M88MM8                       DDMM88M
+8MMDDMM.                 MM88MM8      M88MM8                       DDMM88M
+ MMDDMM8                 MM88MM       M88MM88                      DDMM88M
+ ~8MM88M                 88MM88        MM88MM                      MM88MM8
+  8MM88MM               .88MM8          M88MM8                    8MM88MM
+   DDMM88~              8MMDD            MMDDMM                   MDDMM8.
+    DMM88M             88MMD              MDDMM88                MMDDMM
+      M88MMD          M88MM                 DMM88M?.          .88MMDDM
+       MM88DD8      M88MM                     8MM88MM8      D88MM88M
+         88DD88MM88MM88                          88MM88MM88DD88MM.
+               ?~.                                   ...?~. .
+
 --newpage
 --huge prove
 --huge ourselves
@@ -213,6 +256,7 @@ Vanguard - 'a position at the forefront of new developments or ideas'
 small, concrete goals
 --newpage
 --huge fight fear
+I've done a lot of terrifying things.
 --newpage
 --huge unstick
 --huge ourselves
@@ -372,3 +416,10 @@ or when do you NOT do it?
                           NNNNNNNNNNNNNNN        $NNNNNND
 
 --center http://wunderlist.com
+
+
+
+
+
+'The purpose of science is not to cure us of our sense of mystery and wonder, but to constantly reinvent and reinvigorate it.'
+- Robert Sapolsky
