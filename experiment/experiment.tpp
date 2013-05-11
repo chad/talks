@@ -56,6 +56,8 @@ And realize things suck
 --huge burn
 --huge out
 --newpage
+and it happens to almost every team eventually :(
+--newpage
 --color white
 --bgcolor blue
 --huge Along came Railsberry
